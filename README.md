@@ -1,8 +1,8 @@
 ### Movies
 
 # Tech
-Coroutines Flow
-Room Database
-Retrofit
-Integration Testing
-MVVM
+- Coroutines Flow
+- Room Database
+- Retrofit
+- Integration Testing
+- MVVM
